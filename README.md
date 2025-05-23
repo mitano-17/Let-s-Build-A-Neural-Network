@@ -3,27 +3,27 @@ A walkthrough on the basics of neural networks and how to code them from scratch
 
 ## Outline
 ● Quick Jupyter Notebook/Python review;</br>
-&emsp;⚬ Print;</br>
-&emsp;⚬ For loops; and</br>
-&emsp;⚬ Arrays.</br>
+&emsp;&emsp;⚬ Print;</br>
+&emsp;&emsp;⚬ For loops; and</br>
+&emsp;&emsp;⚬ Arrays.</br>
 ● Creating functions and initialising the network;</br>
 ● Initialise weights;</br>
 ● Query the network; </br>
-&emsp;⚬ Matrix computation; and</br>
-&emsp;⚬Activation function.</br>
+&emsp;&emsp;⚬ Matrix computation; and</br>
+&emsp;&emsp;⚬Activation function.</br>
 ● Build the training function;</br>
-&emsp;⚬ Compute signals between layers;</br>
-&emsp;⚬ Error computation; and</br>
-&emsp;⚬ Update weights.</br>
+&emsp;&emsp;⚬ Compute signals between layers;</br>
+&emsp;&emsp;⚬ Error computation; and</br>
+&emsp;&emsp;⚬ Update weights.</br>
 ● Preparing the MNIST dataset; </br>
-&emsp;⚬ Training data; and</br>
-&emsp;⚬ Testing data.</br>
+&emsp;&emsp;⚬ Training data; and</br>
+&emsp;&emsp;⚬ Testing data.</br>
 ● Testing the network; and</br>
 ● Tweaking the network. </br>
-&emsp;⚬ Adjusting the learning rate;</br>
-&emsp;⚬ Multiple runs;</br>
-&emsp;⚬ Changing network shapes; and</br>
-&emsp;⚬ Simple data augmentation using rotations.</br>
+&emsp;&emsp;⚬ Adjusting the learning rate;</br>
+&emsp;&emsp;⚬ Multiple runs;</br>
+&emsp;&emsp;⚬ Changing network shapes; and</br>
+&emsp;&emsp;⚬ Simple data augmentation using rotations.</br>
 
 ## Instructions
 ### Creating a Python Environment
