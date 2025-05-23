@@ -53,10 +53,13 @@ pip install ipython
 > We use **IPython** as it allows our notebooks to be interactive. Additionally, it contains extensions needed for data and numerical plotting.
 
 ### Navigating Jupyter Notebook
-5.) Open Jupyter Notebook:
+5.) Open Jupyter Notebook. The application will be launched via a web browser with a new tab named **Home**.
 ```
 jupyter notebook
 ```
+![image](https://github.com/user-attachments/assets/5b631bfb-1727-4ba0-be5c-183af114c1a5)
+
+
 
 <h2>💌 Credits ✉️</h2>
 This project is done by <b>ERMITANO, Kate Justine</b> as a supplementary material for the workshop entitled <i>Building Your Neural Network</i> under the instructions of <b>Sir Arren Matthew Antioquia</b>. The work is based on <b>Tariq Rashid's</b> book named <i>Make Your Own Neural Network (2018)</i>. 
