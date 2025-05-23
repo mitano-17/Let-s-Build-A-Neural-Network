@@ -26,10 +26,15 @@ A walkthrough on the basics of neural networks and how to code them from scratch
 &emsp;&emsp;⚬ Simple data augmentation using rotations.</br>
 
 ## Instructions
+### Downloading the MNIST Dataset
+0.) Download `mnist_train_100` and `mnist_test_10` from the <a href="https://github.com/mitano-17/Let-s-Build-A-Neural-Network/tree/main/mnist_dataset">dataset folder</a>. Place the files in a subfolder named **mnist_dataset** under the parent folder.</br>
+![image](https://github.com/user-attachments/assets/52260253-d83d-4d04-844e-73bba989aeb5)
+
+
+### Creating a Python Environment
 > [!WARNING]
 > The following applies only to Windows OS. For Mac OS and Linux users, please refer to online resources.
 
-### Creating a Python Environment
 1.) Download and install <a href="https://www.anaconda.com/download/">Anaconda Navigator</a>. </br>
 > [!NOTE]
 > The **Anaconda Navigator** provides a hassle-free installation of the components needed to run Jupyter Notebook.
