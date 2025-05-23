@@ -27,12 +27,15 @@ A walkthrough on the basics of neural networks and how to code them from scratch
 
 ## Instructions
 ### Creating a Python Environment
-1.) Download and install <a href="https://www.anaconda.com/download/">Anaconda Navigator</a>;</br>
-2.) Open the Anaconda Prompt and create an environment;</br>
+1.) Download and install <a href="https://www.anaconda.com/download/">Anaconda Navigator</a>.</br>
+2.) Open the Anaconda Prompt and create an environment:</br>
 ```
 conda create -n envname python anaconda -y
 ```
-3.) 
+3.) Activate the virtual environment:
+```
+conda activate envname
+```
 
 <h2>💌 Credits ✉️</h2>
 This project is done by <b>ERMITANO, Kate Justine</b> as a supplementary material for the workshop entitled <i>Building Your Neural Network</i> under the instructions of <b>Sir Arren Matthew Antioquia</b>. The work is based on <b>Tariq Rashid's</b> book named <i>Make Your Own Neural Network (2018)</i>. 
