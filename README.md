@@ -26,9 +26,15 @@ A walkthrough on the basics of neural networks and how to code them from scratch
 &emsp;&emsp;⚬ Simple data augmentation using rotations.</br>
 
 ## Instructions
+> [!WARNING]
+> The following applies only to Windows OS. For Mac OS and Linux users, please refer to online resources.
+
 ### Creating a Python Environment
-1.) Download and install <a href="https://www.anaconda.com/download/">Anaconda Navigator</a>.</br>
-2.) Open the Anaconda Prompt and create an environment. Replace `envname` with your preferred environment name.</br>
+1.) Download and install <a href="https://www.anaconda.com/download/">Anaconda Navigator</a>. </br>
+> [!NOTE]
+> The **Anaconda Navigator** provides a hassle-free installation of the components needed to run Jupyter Notebook.
+
+2.) Open the **Anaconda Prompt** and create an environment. Replace `envname` with your preferred environment name:</br>
 ```
 conda create -n envname python anaconda -y
 ```
@@ -46,6 +52,11 @@ pip install ipython
 > [!NOTE]
 > We use **IPython** as it allows our notebooks to be interactive. Additionally, it contains extensions needed for data and numerical plotting.
 
+### Navigating Jupyter Notebook
+5.) Open Jupyter Notebook:
+```
+jupyter notebook
+```
 
 <h2>💌 Credits ✉️</h2>
 This project is done by <b>ERMITANO, Kate Justine</b> as a supplementary material for the workshop entitled <i>Building Your Neural Network</i> under the instructions of <b>Sir Arren Matthew Antioquia</b>. The work is based on <b>Tariq Rashid's</b> book named <i>Make Your Own Neural Network (2018)</i>. 
