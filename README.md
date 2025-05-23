@@ -4,13 +4,15 @@ A walkthrough on the basics of neural networks and how to code them from scratch
 ## Outline
 ● Quick Jupyter Notebook/Python review;</br>
 &emsp;&emsp;⚬ Print;</br>
+&emsp;&emsp;⚬ Arrays; </br>
 &emsp;&emsp;⚬ For loops; and</br>
-&emsp;&emsp;⚬ Arrays.</br>
+&emsp;&emsp;⚬ Functions.</br>
 ● Creating functions and initialising the network;</br>
 ● Initialise weights;</br>
 ● Query the network; </br>
+&emsp;&emsp;⚬ Activation function;</br>
 &emsp;&emsp;⚬ Matrix computation; and</br>
-&emsp;&emsp;⚬Activation function.</br>
+&emsp;&emsp;⚬ Compute signals between layers.</br>
 ● Build the training function;</br>
 &emsp;&emsp;⚬ Compute signals between layers;</br>
 &emsp;&emsp;⚬ Error computation; and</br>
