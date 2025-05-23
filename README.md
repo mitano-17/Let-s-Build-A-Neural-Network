@@ -62,11 +62,16 @@ pip install ipython
 ```
 jupyter notebook
 ```
-![image](https://github.com/user-attachments/assets/5b631bfb-1727-4ba0-be5c-183af114c1a5)
-6.) Navigate to the folder where the MNIST dataset is located. Create a notebook by clicking the **New** button, then select **Python 3 (ipykernel)**. The new notebook should look similar to the image presented below. 
-![image](https://github.com/user-attachments/assets/e47f13e9-2612-4b70-a106-c40536d94b30) 
+![image](https://github.com/user-attachments/assets/5b631bfb-1727-4ba0-be5c-183af114c1a5)</br>
+</br>6.) Navigate to the folder where the MNIST dataset is located. Create a notebook by clicking the **New** button, then select **Python 3 (ipykernel)**. The new notebook should look similar to the image presented below. </br></br>
+![image](https://github.com/user-attachments/assets/e47f13e9-2612-4b70-a106-c40536d94b30) </br>
+</br>Feel free to rename the notebook. I am renaming mine to **my_neural_network.ipynb** for simplicity.</br>
+![image](https://github.com/user-attachments/assets/30215dd2-1334-40e7-a8b7-e9647d062500)
 
-![image](https://github.com/user-attachments/assets/5f1348f7-4251-44a8-ac7b-c52ad10e4f93)
+> [!NOTE]
+> The expected folder structure should be like the image below for convenience and ease of following further instructions inside the notebook.</br>
+> ![image](https://github.com/user-attachments/assets/a9db673b-5334-4659-9394-7c864f947165)
+
 
 <h2>💌 Credits ✉️</h2>
 This project is done by <b>ERMITANO, Kate Justine</b> as a supplementary material for the workshop entitled <i>Building Your Neural Network</i> under the instructions of <b>Sir Arren Matthew Antioquia</b>. The work is based on <b>Tariq Rashid's</b> book named <i>Make Your Own Neural Network (2018)</i>. 
