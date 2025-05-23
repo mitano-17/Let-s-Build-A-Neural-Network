@@ -74,6 +74,12 @@ jupyter notebook
 > The expected folder structure should be like the image below for convenience and ease of following further instructions inside the notebook.</br>
 > ![image](https://github.com/user-attachments/assets/a9db673b-5334-4659-9394-7c864f947165)
 
+### Closing Notebook and Shutting Down
+7.) Shutdown the notebook.</br>
+8.) Deactivate the virtual environment:</br>
+```
+conda deactivate
+```
 
 <h2>💌 Credits ✉️</h2>
 This project is done by <b>ERMITANO, Kate Justine</b> as a supplementary material for the workshop entitled <i>Building Your Neural Network</i> under the instructions of <b>Sir Arren Matthew Antioquia</b>. The work is based on <b>Tariq Rashid's</b> book named <i>Make Your Own Neural Network (2018)</i>. 
