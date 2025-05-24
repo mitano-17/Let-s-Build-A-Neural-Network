@@ -25,7 +25,6 @@ A walkthrough on the basics of neural networks and how to code them from scratch
 &emsp;&emsp;⚬ Adjusting the learning rate;</br>
 &emsp;&emsp;⚬ Multiple runs;</br>
 &emsp;&emsp;⚬ Changing network shapes; and</br>
-&emsp;&emsp;⚬ Simple data augmentation using rotations.</br>
 
 ## Instructions
 ### Downloading the MNIST Dataset
