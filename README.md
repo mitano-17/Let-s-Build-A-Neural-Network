@@ -30,8 +30,7 @@ A walkthrough on the basics of neural networks and how to code them from scratch
 ## Instructions
 ### Downloading the MNIST Dataset
 0.) Download `mnist_train_100` and `mnist_test_10` from the <a href="https://github.com/mitano-17/Let-s-Build-A-Neural-Network/tree/main/mnist_dataset">dataset folder</a>. Place the files in a subfolder named **mnist_dataset** under the parent folder. For the full version, download <a href="https://www.kaggle.com/datasets/oddrationale/mnist-in-csv?resource=download">MNIST in CSV</a></br>
-![image](https://github.com/user-attachments/assets/52260253-d83d-4d04-844e-73bba989aeb5)
-
+![image](https://github.com/user-attachments/assets/c60dbad7-d655-4721-92f4-ccb7a191b22e)
 
 ### Creating a Python Environment
 > [!WARNING]
