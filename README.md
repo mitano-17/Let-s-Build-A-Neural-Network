@@ -8,23 +8,41 @@ A walkthrough on the basics of neural networks and how to code them from scratch
 &emsp;&emsp;⚬ For loops; and</br>
 &emsp;&emsp;⚬ Functions.</br>
 ● Creating functions and initialising the network;</br>
-● Initialise weights;</br>
+&emsp;&emsp;⚬ Initialising the network; and</br>
+&emsp;&emsp;⚬ Initialise weights.</br>
+&emsp;&emsp;&emsp;&emsp;- Import numpy library; and</br>
+&emsp;&emsp;&emsp;&emsp;- Adding weights to class.</br>
 ● Query the network; </br>
 &emsp;&emsp;⚬ Activation function;</br>
-&emsp;&emsp;⚬ Matrix computation; and</br>
-&emsp;&emsp;⚬ Compute signals between layers.</br>
+&emsp;&emsp;⚬ Matrix computation using dot product;</br>
+&emsp;&emsp;⚬ Compute signals between layers; and</br>
+&emsp;&emsp;⚬ Testing the network.</br>
 ● Build the training function;</br>
 &emsp;&emsp;⚬ Compute signals between layers;</br>
 &emsp;&emsp;⚬ Error computation; and</br>
 &emsp;&emsp;⚬ Update weights.</br>
 ● Preparing the MNIST dataset; </br>
-&emsp;&emsp;⚬ Training data; and</br>
-&emsp;&emsp;⚬ Testing data.</br>
-● Testing the network; and</br>
-● Tweaking the network. </br>
-&emsp;&emsp;⚬ Adjusting the learning rate;</br>
-&emsp;&emsp;⚬ Multiple runs; and</br>
-&emsp;&emsp;⚬ Changing network shapes.</br>
+&emsp;&emsp;⚬ Reading training data;</br>
+&emsp;&emsp;⚬ Plotting training data;</br>
+&emsp;&emsp;⚬ Preparing training data;</br>
+&emsp;&emsp;⚬ Setting up the training function; and</br>
+&emsp;&emsp;⚬ Reading test data.</br>
+● Testing the network;</br>
+&emsp;&emsp;⚬ Setting up scoring; and</br>
+&emsp;&emsp;⚬ Computing performance.</br>
+● Tweaking the network; and</br>
+&emsp;&emsp;⚬ Multiple runs;</br>
+&emsp;&emsp;&emsp;&emsp;- Finding the most optimal no. of epochs; and</br>
+&emsp;&emsp;&emsp;&emsp;- Plotting the performance.</br>
+&emsp;&emsp;⚬ Adjusting the learning rate; and</br>
+&emsp;&emsp;&emsp;&emsp;- Finding the most optimal learning rate; and</br>
+&emsp;&emsp;&emsp;&emsp;- Plotting the performance.</br>
+&emsp;&emsp;⚬ Changing network shape.</br>
+&emsp;&emsp;&emsp;&emsp;- Finding the most optimal no. of hidden layers; and</br>
+&emsp;&emsp;&emsp;&emsp;- Plotting the performance.</br>
+● Visualizations.</br>
+&emsp;&emsp;⚬ Confusion matrix; and</br>
+&emsp;&emsp;⚬ Predicted vs actual.</br>
 
 ## Instructions
 ### Downloading the MNIST Dataset
