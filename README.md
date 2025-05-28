@@ -2,12 +2,12 @@
 A walkthrough on the basics of neural networks and how to code them from scratch using Python and Jupyter Notebooks.
 
 ## Outline
-● ⚒ Quick Jupyter Notebook/Python review 🌐; </br>
+● 🐍 Quick Python review; </br>
 &emsp;&emsp;⚬ Print;</br>
 &emsp;&emsp;⚬ Arrays; </br>
 &emsp;&emsp;⚬ For loops; and</br>
 &emsp;&emsp;⚬ Functions.</br>
-● Creating functions and initialising the network;</br>
+● 🛠 Creating functions and initialising the network;</br>
 &emsp;&emsp;⚬ Initialising the network; and</br>
 &emsp;&emsp;⚬ Initialise weights.</br>
 &emsp;&emsp;&emsp;&emsp;- Import numpy library; and</br>
