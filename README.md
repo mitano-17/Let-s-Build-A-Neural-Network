@@ -30,7 +30,7 @@ A walkthrough on the basics of neural networks and how to code them from scratch
 ● 🔌 Testing the network;</br>
 &emsp;&emsp;⚬ Setting up scoring; and</br>
 &emsp;&emsp;⚬ Computing performance.</br>
-● Tweaking the network; and</br>
+● 🧮 Tweaking the network; and</br>
 &emsp;&emsp;⚬ Multiple runs;</br>
 &emsp;&emsp;&emsp;&emsp;- Finding the most optimal no. of epochs; and</br>
 &emsp;&emsp;&emsp;&emsp;- Plotting the performance.</br>
