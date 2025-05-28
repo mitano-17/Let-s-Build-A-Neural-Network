@@ -21,13 +21,13 @@ A walkthrough on the basics of neural networks and how to code them from scratch
 &emsp;&emsp;⚬ Compute signals between layers;</br>
 &emsp;&emsp;⚬ Error computation; and</br>
 &emsp;&emsp;⚬ Update weights.</br>
-● Preparing the MNIST dataset; </br>
+● 📚 Preparing the MNIST dataset; </br>
 &emsp;&emsp;⚬ Reading training data;</br>
 &emsp;&emsp;⚬ Plotting training data;</br>
 &emsp;&emsp;⚬ Preparing training data;</br>
 &emsp;&emsp;⚬ Setting up the training function; and</br>
 &emsp;&emsp;⚬ Reading test data.</br>
-● Testing the network;</br>
+● 🔌 Testing the network;</br>
 &emsp;&emsp;⚬ Setting up scoring; and</br>
 &emsp;&emsp;⚬ Computing performance.</br>
 ● Tweaking the network; and</br>
