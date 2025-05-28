@@ -97,7 +97,7 @@ jupyter notebook
 10.) Shutdown the notebook by going to <b>File</b> then select **Close and Shut Down Notebook**.</br>
 ![image](https://github.com/user-attachments/assets/ceb0d21f-3bd5-4df7-a4db-ac457093a27c)</br>
 
-12.) Go back to the Anaconda Prompt, then press `Ctrl+C` in the terminal to stop the application.</br>
+12.) Go back to the Anaconda Prompt terminal, then press `Ctrl+C` in the terminal to stop the application.</br>
 13.) Deactivate the virtual environment:</br>
 ```
 conda deactivate
