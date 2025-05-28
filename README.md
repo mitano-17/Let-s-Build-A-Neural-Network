@@ -40,7 +40,7 @@ A walkthrough on the basics of neural networks and how to code them from scratch
 &emsp;&emsp;⚬ Changing network shape.</br>
 &emsp;&emsp;&emsp;&emsp;- Finding the most optimal no. of hidden layers; and</br>
 &emsp;&emsp;&emsp;&emsp;- Plotting the performance.</br>
-● Visualizations.</br>
+● 🖼 Visualizations.</br>
 &emsp;&emsp;⚬ Confusion matrix; and</br>
 &emsp;&emsp;⚬ Predicted vs actual.</br>
 
