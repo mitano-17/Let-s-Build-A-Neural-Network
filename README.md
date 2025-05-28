@@ -12,12 +12,12 @@ A walkthrough on the basics of neural networks and how to code them from scratch
 &emsp;&emsp;⚬ Initialise weights.</br>
 &emsp;&emsp;&emsp;&emsp;- Import numpy library; and</br>
 &emsp;&emsp;&emsp;&emsp;- Adding weights to class.</br>
-● Query the network; </br>
+● 🗃 Query the network; </br>
 &emsp;&emsp;⚬ Activation function;</br>
 &emsp;&emsp;⚬ Matrix computation using dot product;</br>
 &emsp;&emsp;⚬ Compute signals between layers; and</br>
 &emsp;&emsp;⚬ Testing the network.</br>
-● Build the training function;</br>
+● 🛴 Build the training function;</br>
 &emsp;&emsp;⚬ Compute signals between layers;</br>
 &emsp;&emsp;⚬ Error computation; and</br>
 &emsp;&emsp;⚬ Update weights.</br>
